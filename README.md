@@ -1,2 +1,2 @@
 # Stage
-Work realised during my internship
+Project realised during my internship
